@@ -3,6 +3,7 @@ uvicorn==0.30.6
 langgraph==0.2.39
 langchain==0.2.14
 langchain_groq==0.1.5
+chromadb
 sentence-transformers==3.0.1
 mysql-connector-python==9.0.0
 SQLAlchemy==2.0.32
