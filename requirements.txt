@@ -1,0 +1,16 @@
+fastapi==0.112.2
+uvicorn==0.30.6
+langgraph==0.2.39
+langchain==0.2.14
+langchain_groq==0.1.5
+sentence-transformers==3.0.1
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.32
+pydantic==2.9.0
+python-dotenv==1.0.1
+imapclient==3.0.1
+email-validator==2.2.0
+streamlit==1.37.1
+groq==0.9.0
+google-api-python-client==2.142.0
+google-auth-oauthlib==1.2.1
